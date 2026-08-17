@@ -1,0 +1,19 @@
+src/bot.ts
+  s_c5b2afae3eb64f::t_dcf1722fbde351 164-166,308,311,315-329,332-337,450-459,463-499,502,504-508,512-513,520-524,529,541,566,568-581,583-596,640-643,650-653,657,660-664,672-674,688,696,699,701-703,711-712,730-735,806,809,822-860,869
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "1f1c9503fd878cc8d6f36fb6d62b3f9e9da804e3",
+  "prompts": {},
+  "sessions": {
+    "s_c5b2afae3eb64f": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_0081c2d50ffe5d31gnLOOJVbsj",
+        "model": "gpt-5.6"
+      },
+      "human_author": "Roshni Dave <rdave@cloudflare.com>"
+    }
+  }
+}
